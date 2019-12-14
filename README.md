@@ -9,3 +9,9 @@ npm install -g @vue/cli
 # OR
 yarn global add @vue/cli
 ```
+
+
+### Create a new VueJS Project
+
+````
+vue create hello-world
