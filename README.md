@@ -1,34 +1,17 @@
-# vuejs-large-project-roadmap
+# vuejs-large-project-road-map-in-2020
+in this tutorial you will learn vue js advanced configurations for a project.
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Installing Vue Cli
 
-### Compiles and minifies for production
 ```
-npm run build
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+### Create a new VueJS Project
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+````
+vue create hello-world
