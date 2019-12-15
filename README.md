@@ -11,6 +11,7 @@ in this tutorial you will learn vue js advanced configurations for a project.
 
 ### Installing Vue Cli
 
+To install vue cli, run:
 ```
 npm install -g @vue/cli
 # OR
@@ -26,6 +27,6 @@ To create a new project, run:
 vue create hello-world
 ```
 
-![create a new vuejs project]("https://github.com/ebubekirtabak/vuejs-large-project-road-map-in-2020/blob/master/images/select_features.png")
+![create a new vuejs project]("https://raw.githubusercontent.com/ebubekirtabak/vuejs-large-project-road-map-in-2020/master/images/select_features.png")
 
 
