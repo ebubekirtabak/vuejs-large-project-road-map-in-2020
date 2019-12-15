@@ -26,7 +26,8 @@ To create a new project, run:
 ```
 vue create hello-world
 ```
+Then select "Manually select features".
 
-![create a new vuejs project]("https://raw.githubusercontent.com/ebubekirtabak/vuejs-large-project-road-map-in-2020/master/images/select_features.png")
+![create a new vuejs project](https://raw.githubusercontent.com/ebubekirtabak/vuejs-large-project-road-map-in-2020/master/images/select_features.png)
 
 
